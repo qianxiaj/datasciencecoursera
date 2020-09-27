@@ -1,2 +1,2 @@
-## This is a mardhown file
+## This is a markdown file
 
